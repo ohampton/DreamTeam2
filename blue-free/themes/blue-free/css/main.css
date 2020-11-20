@@ -30,9 +30,12 @@ a, a:hover, a:focus, .btn:focus {
     text-decoration: none;
     outline: none;
 }
+h1, .h1 {
+    font-family: 'Proza Libre';
+}
 
-h1, h2, h3, h4, h5, h6,
-.h1, .h2, .h3, .h4, .h5, .h6 {
+h2, h3, h4, h5, h6,
+.h2, .h3, .h4, .h5, .h6 {
     font-family: 'Open Sans', sans-serif;
     color: #252525;
 }
