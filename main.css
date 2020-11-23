@@ -476,7 +476,7 @@ h1.navbar-brand {
 /* Project laughtbox setup */
 
 .fancybox-item.fancybox-close {
-    background: url("../img/icons/close.png") no-repeat scroll 0 0 transparent;
+    background: url("img/icons/close.png") no-repeat scroll 0 0 transparent;
     height: 50px;
     right: 0;
     top: 0;
@@ -484,14 +484,14 @@ h1.navbar-brand {
 }
 
 .fancybox-next span {
-    background: url("../img/right.png") no-repeat scroll center center #D4AF37;
+    background: url("img/right.png") no-repeat scroll center center #D4AF37;
     height: 50px;
     width: 50px;
     right: 0;
 }
 
 .fancybox-prev span {
-    background: url("../img/left.png") no-repeat scroll center center #D4AF37;
+    background: url("img/left.png") no-repeat scroll center center #D4AF37;
     height: 50px;
     width: 50px;
     left: 0;
@@ -716,7 +716,7 @@ ul.external li a:hover {
 
 
 #testimonials {
-    background-image: url(/blue-free/servicesphoto.jpg);
+    background-image: url(servicesphoto.jpg);
     padding: 0;
     color: #fff;
 }
